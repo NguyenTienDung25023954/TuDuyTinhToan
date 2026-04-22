@@ -21,6 +21,7 @@ Dự án này lưu trữ các bài tập thực hành, bài tập về nhà và 
 | **Tuần 3** | [Homework3.ipynb](./Homework3.ipynb) | [BaiTapTuan3.ipynb](./BaiTapTuan3.ipynb) |
 | **Tuần 4** | [Homework4.ipynb](./Homework4.ipynb) | [BaiTapTuan4.ipynb](./BaiTapTuan4.ipynb) |
 | **Tuần 5** | [Homework5.ipynb](./Homework5.ipynb) | [BaiTapTuan5.ipynb](./BaiTapTuan5.ipynb) |
+| **Tuần 6** | [Homework6.ipynb](./Homework6.ipynb) | [BaiTapTuan6.ipynb](./BaiTapTuan6.ipynb) |
 | **Khác** | | [OnTap1.ipynb](./OnTap1.ipynb) |
 
 ---
