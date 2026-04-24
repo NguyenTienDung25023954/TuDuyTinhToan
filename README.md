@@ -1,20 +1,20 @@
 # 🐍 Tổng hợp bài tập Python - Tư Duy Tính Toán
 
-Dự án này lưu trữ các bài tập thực hành, bài tập về nhà và Lab trong quá trình học lập trình Python.
+Dự án này lưu trữ các bài tập thực hành và bài tập về nhà trong quá trình học lập trình Python.
 
 ---
 
 ### 👤 Thông tin sinh viên
 * **Họ và tên:** Nguyễn Tiến Dũng
 * **Mã sinh viên:** 25023954
-* **Môn học:** Tư duy tính toán (Computational Thinking)
+* **Môn học:** Tư duy tính toán 
 
 ---
 
 ### 📂 Danh mục bài tập
 
 
-| Tuần | Bài tập về nhà (Homework) | Bài tập thực hành (Lab) |
+| Tuần | Bài tập về nhà (Homework) | Bài tập thực hành |
 | :--- | :--- | :--- |
 | **Tuần 1** | [Homework1.ipynb](./Homework1.ipynb) | [BaiTapTuan1.ipynb](./BaiTapTuan1.ipynb) |
 | **Tuần 2** | [Homework2.ipynb](./Homework2.ipynb) | [BaiTapTuan2.ipynb](./BaiTapTuan2.ipynb) |
